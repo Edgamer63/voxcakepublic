@@ -1,8 +1,13 @@
 # VoxCakeFramework [Public]
 VoxCakeFramework is the framework which provides easy and efficiency work with voxel graphics.
 ## Features
-- [X] Mesh generation
-- [X] Saving and Loading of voxel volumes
+- [X] Handling of voxel data;
+- [X] Generating geometry for the voxels;
+    - [X] Greedy meshing;
+    - [X] Greedy meshing;
+    - [X] Greedy meshing;
+    - [X] Greedy meshing with Ambient Occlussion and Texturing;
+- [X] Saving and Loading of voxel volumes;
 - [ ]
 ### Installing
 1. Copy VoxCake folder to your Unity project.
