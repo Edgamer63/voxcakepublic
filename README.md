@@ -1,5 +1,5 @@
-# VoxCakeFramework [Public]
-VoxCakeFramework is the framework which provides easy and efficiency work with voxel graphics.
+# VoxCake[Public]
+VoxCake is the framework which provides easy and efficiency work with voxel graphics.
 ## Features
 - [X] Handling of voxel data;
 - [X] Generating geometry for the voxels with:
