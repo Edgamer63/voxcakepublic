@@ -13,15 +13,15 @@ Well, i think what at first, you would see the fast results, dont you?
 Okay, let`s create your first voxel volume in few lines of code!
 ```csharp
 using UnityEngine;
-using VoxCake; // 
+using VoxCake; // Connecting the VoxCake framework
 
 public class MVolume : MonoBehaviour
 {
     void Start()
     {
-        Volume volume = new Volume(Size.x, Size.y, Size.z, gameObject);
-        volume.LoadVXW("Map", 0xffffff);
-        StartCoroutine(volume.Update());
+        Volume volume = new Volume(256, 256, 256, gameObject); // Create the volume with 256x128x256 size in the gameobject which have that script
+        volume.LoadVXW("Map", 0xff0000); // Load volume which called "Map" and set the ground color in hex format
+        StartCoroutine(volume.Update()); // Update all our chunk to generate map geometry
     }
 }
 ```
