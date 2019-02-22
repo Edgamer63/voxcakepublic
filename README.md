@@ -9,3 +9,19 @@ VoxCakeFramework is the framework which provides easy and efficiency work with v
 3. You also don`t need the third step :D
 
 ### First steps
+Well, i think what at first, you would see the fast results, dont you?
+Okay, let`s create your first voxel volume in few lines of code!
+```csharp
+using UnityEngine;
+using VoxCake; // 
+
+public class MVolume : MonoBehaviour
+{
+    void Start()
+    {
+        Volume volume = new Volume(Size.x, Size.y, Size.z, gameObject);
+        volume.LoadVXW("Map", 0xffffff);
+        StartCoroutine(volume.Update());
+    }
+}
+```
