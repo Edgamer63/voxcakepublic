@@ -7,12 +7,12 @@ VoxCake is the framework which provides easy and efficiency work with voxel grap
     - [X] Greedy algorithm and ambient Occlussion + Texturing;
 - [X] Saving and Loading of voxel volumes;
 - [ ]
-### Installing
+## Installing
 1. Copy VoxCake folder to your Unity project.
 2. You don`t need the second step, youre ready to create great things!
 3. You also don`t need the third step :D
 
-### First steps
+## First steps
 Well, i think what at first, you would see the fast results, dont you?
 Okay, let`s create your first voxel volume in few lines of code!
 ```csharp
