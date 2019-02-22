@@ -2,11 +2,9 @@
 VoxCakeFramework is the framework which provides easy and efficiency work with voxel graphics.
 ## Features
 - [X] Handling of voxel data;
-- [X] Generating geometry for the voxels;
-    - [X] Greedy meshing;
-    - [X] Greedy meshing;
-    - [X] Greedy meshing;
-    - [X] Greedy meshing with Ambient Occlussion and Texturing;
+- [X] Generating geometry for the voxels with:
+    - [X] Culling algorithm and ambient occlusion + textures;
+    - [X] Greedy algorithm and ambient Occlussion + Texturing;
 - [X] Saving and Loading of voxel volumes;
 - [ ]
 ### Installing
