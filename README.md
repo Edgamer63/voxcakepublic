@@ -13,7 +13,9 @@ VoxCake is the framework which provides easy and efficiency work with voxel grap
         - [X] Voxel box;
         - [ ] Voxel sphere;
         - [ ] Voxel filling;
-- [X] Saving and Loading of voxel volumes;
+- [X] Saving and Loading of voxel volumes:
+    - [X] .vcmap;
+    - [X] .vcmod;
 ## Installing
 1. Copy VoxCake folder to your Unity project.
 2. You don`t need the second step, youre ready to create great things!
