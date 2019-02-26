@@ -4,7 +4,7 @@ VoxCake is the framework which provides easy and efficiency work with voxel grap
 - [X] Handling of voxel volumes;
 - [X] Generating geometry for the voxels with:
     - [X] Culling algorithm and ambient occlusion + texturing;
-    - [X] Greedy algorithm and ambient Occlussion + texturing;
+    - [X] Greedy algorithm and ambient occlussion + texturing;
 - [X] Editing the voxel volumes
     - [X] Command buffer;
     - [X] Tools:
