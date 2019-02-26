@@ -5,9 +5,9 @@ Formats:
 2. Format for maps: vcmap
 
 Prefixes:
-1. Prefix H in the class/script name means handler;
-2. Prefix U in the class/script name means utility;
-3. Prefix M in the class/script name means mono;
+1. Prefix H in the class/script name means Handler;
+2. Prefix U in the class/script name means Utility;
+3. Prefix M in the class/script name means Mono;
 
 VoxCake:
 --Volume: used to create and manage volume
