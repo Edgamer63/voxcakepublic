@@ -11,7 +11,7 @@ VoxCake is the framework which provides easy and efficiency work with voxel grap
         - [X] Voxel;
         - [X] Voxel line;
         - [X] Voxel box;
-        - [ ] Voxel sphere;
+        - [X] Voxel sphere;
         - [ ] Voxel filling;
 - [X] Saving and Loading of voxel volumes:
     - [X] .vcmap;
